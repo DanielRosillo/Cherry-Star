@@ -1,4 +1,4 @@
-## Cherry Tree´s
+## Cherry* Tree´s
 
 ![publicacion2](https://user-images.githubusercontent.com/23446483/42411673-633efda2-81c5-11e8-9584-a01dc240d8c2.jpg)
 
@@ -16,10 +16,10 @@ The Library requires Java SE Development Kit 10 or High
 ### Dynamic Structures !!!
 
 ```
-//("state",cost)
-var origin = new Node("A", 0.0);
-//(root,objective,name)
-var tree = new Tree(origin, "N", " TEST");
+//("state",cost,representation)
+var origin = new Node("A", 0.0,new Integer[]{0,0,0,0});
+//(root,objective,name,representation)
+var tree = new Tree(origin, "N", " TEST",new Integer[]{0,0,0,0});
 
 //Last in first out, list!
 var list = new Lifo<Node>();
@@ -32,4 +32,4 @@ var list = new Lifo<Node>();
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

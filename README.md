@@ -2,7 +2,7 @@
 
 ![publicacion2](https://user-images.githubusercontent.com/23446483/42411673-633efda2-81c5-11e8-9584-a01dc240d8c2.jpg)
 
-## this implementation include a demo than runs with the manhattan heuristic.
+## this implementation include a demo that runs with the manhattan heuristic as function heuristic for the agent.
 
 ## Post en Español
 https://foro.hackplayers.com/discussion/323/cherry-ia-busqueda-a-la-heuristica-de-manhattan#latest

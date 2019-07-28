@@ -12,6 +12,9 @@ https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.book
 ## Post en Español;
 https://foro.hackplayers.com/discussion/323/cherry-ia-busqueda-a-la-heuristica-de-manhattan#latest
 
+![Capture](https://user-images.githubusercontent.com/23446483/62000626-65768480-b0a1-11e9-8977-e740d4227795.PNG)
+
+![Coapture](https://user-images.githubusercontent.com/23446483/62000625-65768480-b0a1-11e9-941a-490544222492.PNG)
 
 ## Description;
 

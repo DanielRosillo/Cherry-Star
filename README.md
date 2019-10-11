@@ -1,6 +1,6 @@
 ## More of me...
 
-## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS IN ANDROID
+## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS ON ANDROID
 https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager
 
 ## Cherry* Tree´s;
